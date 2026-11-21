@@ -1,0 +1,6 @@
+node_modules/
+out/
+tmp/
+*.log
+# hasil render jangan pernah di-commit (limit GitHub 100MB/file)
+*.mp4
