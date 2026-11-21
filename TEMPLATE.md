@@ -36,7 +36,7 @@ npx remotion render MeridianGlow "D:\my-videoyoutube\imnnra\eps<N>\<track>.mp4" 
 4. zod ENOENT Studio: kalau muncul, salin `node_modules\zod` ke `node_modules\@remotion\studio\node_modules\zod`, restart Studio.
 
 ## Paket publish (setiap episode)
-Checklist + contoh lengkap ada di `../EPISODE-PROMPT.md` dan riwayat eps1:
+Checklist + contoh lengkap ada di `EPISODE-PROMPT.md` (repo ini, juga di `D:\my-videoyoutube\imnnra\`) dan riwayat eps1:
 judul 3 varian, deskripsi+chapters+hashtag, tags <500 char, thumbnail dari key art
 (`ffmpeg -i keyart.jpg -vf scale=1280:720,...`), jadwal 19:00 UTC = 03:00 WITA Sabtu,
 kartu di 70% durasi, layar akhir 20 dtk (subscribe+channel), komentar pinned.

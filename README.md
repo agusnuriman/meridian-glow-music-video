@@ -15,7 +15,7 @@ npx remotion studio            # review dulu, WAJIB sebelum render
 npx remotion render MeridianGlow out\episode.mp4
 ```
 
-Detail lengkap: `TEMPLATE.md`. Prompt siap-pakai per episode: `../EPISODE-PROMPT.md`.
+Detail lengkap: `TEMPLATE.md`. Prompt siap-pakai per episode: `EPISODE-PROMPT.md` (juga ada di `D:\my-videoyoutube\imnnra\`).
 
 ## Struktur
 
